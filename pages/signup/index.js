@@ -45,7 +45,6 @@ const index = () => {
             ))}
           </div>
         </div>
-        <div className="bg-black lg:w-[1149px] w-full h-[548px] p-10 m-auto absolute z-10 lg:right-[98px] md:right-[-8px] right-[-8px] bottom-[-8px]"></div>
       </div>
     </React.Fragment>
   )
